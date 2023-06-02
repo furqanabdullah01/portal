@@ -1,0 +1,14 @@
+To begin, i will focus on designing and developing the login screen and registration form(name, email, password ,forget password). These components will allow users to authenticate and create new accounts, respectively. Once the users log in, after that they will be directed to the dashboard(),  I will use university portal system (teacher and student interfaces will be used )which will serve (including user activities and these will show at user end and admin also). The dashboard will provide a visually appealing and user-friendly interface, adhering to the color scheme defined by the software company's logo.in this making progress bar also included for enhancement in understanding for user.
+
+Within the online dashboard, we will incorporate various features and functionalities. One important element is the permission graph, which will enable administrators to manage access rights for different user roles. (user roles wil not specific )This will ensure data security and privacy.  
+
+We will introduce popup actions to enhance user interaction. These actions will include adding and deleting items, which will trigger popup windows for users to provide necessary information. Furthermore, a configuration form will be included to manage database settings and define(API accepts basic auth or OAuth2 , Create, Read, Update, Delete (CRUD) operations. and path and query parameters resolve successfully.
+) how the system interacts with external APIs. 
+Users will be able to input configuration details(Logging Mechanism, Event Selection=login attempts, page visits, form submissions, button clicks, file downloads ), and the form will provide options for exporting data from the data table to CSV format.
+
+Throughout the implementation process, we will prioritize maintaining a consistent and visually appealing color scheme that aligns with the software company's logo. This will help create a cohesive and branded experience for users. 
+
+
+
+
+
